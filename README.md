@@ -9,9 +9,10 @@ It is possible to generate new yamls, visualise the data track what has been cha
 Structure of the files with summaries
 ----------------------------------
 
-deployment_availability.2013-11-11_101315.yml
-deployment_availability.2013-11-11_102010.yml
-deployment_availability.latest.yml
+deployment_availability.latest.yml  
+deployment_availability.2013-11-11_102010.yml  
+deployment_availability.2013-11-11_101315.yml  
+...
 
 ```
 volunteers:
@@ -38,9 +39,10 @@ dates:
             names: [name, name]
 ```
 
-tasking_grid.2013-11-11_101315.yml
-tasking_grid.2013-11-11_102010.yml
-tasking_grid.latest.yml
+tasking_grid.latest.yml  
+tasking_grid.2013-11-11_102010.yml  
+tasking_grid.2013-11-11_101315.yml  
+...
 
 ```
 events:
@@ -76,6 +78,8 @@ events:
         name: Test2
         …
 ```
+
+__Examples are in data/yml folder__
 
 Usage
 ----------------------------------
