@@ -1,0 +1,5 @@
+map_action_dashboard_summary:
+    resource: "@MapActionDashboardSummaryBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

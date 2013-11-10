@@ -1,0 +1,739 @@
+events:
+    -
+        name: 'OSOCC Course'
+        time_range: '17-21 February'
+        type: 'EX - UNDAC'
+        _location_lat: 25.33
+        _location_lon: 51.23
+        location_name: Qatar
+        vol_reqs: '1 volunteers - DT or OST'
+        availability:
+            unknown:
+                count: 57
+                names: ['Lynnette Shain', 'April Smead', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Alfonso Earp', 'Merle Boulanger', 'Tommye Hunsicker', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Carma Haring', 'Melisa Kenny', 'Domenic Almazan', 'Philip Trevathan', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Letty Kiley', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 10
+                names: ['Somer Holscher', 'Reina Dillman', 'Krystal Whalen', 'Marjory Mccausland', 'Yessenia Mojica', 'Dalila Kates', 'Christene Ludwig', 'Song Wheaton', 'Gretta Leist', 'Sandee Graffam']
+            yes:
+                count: 9
+                names: ['Joyce Sandin', 'Lynell Mazzeo', 'Cruz Lenig', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Debbra Ciccone', 'Carmine Madera']
+            selected:
+                count: 1
+                names: ['Tammi Merrifield']
+    -
+        name: 'Nuclear Resilience Forum'
+        time_range: '12-13 March'
+        type: Conference
+        _location_lat: 53.41
+        _location_lon: -2.98
+        location_name: Liverpool
+        vol_reqs: '1 volunteer'
+        availability:
+            unknown:
+                count: 76
+                names: ['Lynnette Shain', 'Somer Holscher', 'April Smead', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Krystal Whalen', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Carma Haring', 'Debbra Ciccone', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Christene Ludwig', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            selected:
+                count: 1
+                names: ['Bryce Grand']
+    -
+        name: 'RedR Needs Assesment Course '
+        time_range: '16 April 2pm'
+        type: ''
+        _location_lat: 51.51
+        _location_lon: -0.13
+        location_name: London
+        vol_reqs: '1 volunteer - DT or OST '
+        availability:
+            unknown:
+                count: 71
+                names: ['Lynnette Shain', 'Somer Holscher', 'April Smead', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Krystal Whalen', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Carma Haring', 'Melisa Kenny', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Letty Kiley', 'Karol Streit', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            wrong:
+                count: 1
+                names: ['Merle Boulanger']
+            no:
+                count: 4
+                names: ['Debbra Ciccone', 'Christene Ludwig', 'Song Wheaton', 'Olevia Stillman']
+            possibly:
+                count: 1
+                names: ['Yessenia Mojica']
+    -
+        name: 'OSOCC Course'
+        time_range: '22-26 April '
+        type: 'EX - UNDAC'
+        _location_lat: 33.92
+        _location_lon: 8.92
+        location_name: Tunisia
+        vol_reqs: '1 volunteers - DT or OST'
+        availability:
+            unknown:
+                count: 47
+                names: ['Lynnette Shain', 'April Smead', 'Beth Sisto', 'Sirena Bordelon', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Alfonso Earp', 'Eloise Selig', 'Samuel Holtkamp', 'Earlene Evelyn', 'Carma Haring', 'Melisa Kenny', 'Domenic Almazan', 'Philip Trevathan', 'Gala Mannion', 'Shelli Abundis', 'Tasia Sweitzer', 'Letty Kiley', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Zenobia Mayle', 'Jacinta Charney', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr']
+            no:
+                count: 23
+                names: ['Somer Holscher', 'Kerri Lent', 'Reina Dillman', 'Krystal Whalen', 'Lynell Mazzeo', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Lavina Stutz', 'Andy Warford', 'Debbra Ciccone', 'Yessenia Mojica', 'Carmine Madera', 'Dalila Kates', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Tammi Merrifield', 'Sandee Graffam', 'Ardelia Chachere', 'Bret Chamness', 'Elvin Neeley']
+            selected:
+                count: 1
+                names: ['Joyce Sandin']
+            yes:
+                count: 6
+                names: ['Camila Siders', 'Evalyn Alldredge', 'Duane Cardillo', 'Christene Ludwig', 'Gretta Leist', 'Laila Ambrosio']
+    -
+        name: 'POLEX '
+        time_range: '23-25 April '
+        type: ''
+        _location_lat: 52.1
+        _location_lon: 19.03
+        location_name: Poland
+        vol_reqs: '2 volunteers DT and OST'
+        availability:
+            unknown:
+                count: 55
+                names: ['Lynnette Shain', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Tommye Hunsicker', 'Marjory Mccausland', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Carma Haring', 'Melisa Kenny', 'Domenic Almazan', 'Philip Trevathan', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Karol Streit', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Zenobia Mayle', 'Jacinta Charney', 'Levi Gaillard', 'Shavon Sedlock', 'Hertha Niebuhr']
+            no:
+                count: 9
+                names: ['Somer Holscher', 'April Smead', 'Kerri Lent', 'Krystal Whalen', 'Debbra Ciccone', 'Song Wheaton', 'Olevia Stillman', 'Johnathan Madry', 'Elvin Neeley']
+            yes:
+                count: 9
+                names: ['Merle Boulanger', 'Eloise Selig', 'Lavina Stutz', 'Evalyn Alldredge', 'Carmine Madera', 'Dalila Kates', 'Letty Kiley', 'Ardelia Chachere', 'Bret Chamness']
+            possibly:
+                count: 2
+                names: ['Cruz Lenig', 'Yessenia Mojica']
+            selected:
+                count: 2
+                names: ['Christene Ludwig', 'Sandee Graffam']
+    -
+        name: 'MapAction Hackathon'
+        time_range: '27th April'
+        type: ''
+        _location_lat: 51.33
+        _location_lon: -0.27
+        location_name: 'Epsom, Surrey'
+        vol_reqs: '~5-8 volunteers DT and OST'
+        availability:
+            unknown:
+                count: 58
+                names: ['Lynnette Shain', 'Somer Holscher', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Tommye Hunsicker', 'Marjory Mccausland', 'Eloise Selig', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Carma Haring', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Dalila Kates', 'Gala Mannion', 'Shelli Abundis', 'Christene Ludwig', 'Tasia Sweitzer', 'Karol Streit', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Jacinta Charney', 'Levi Gaillard', 'Shavon Sedlock', 'Hertha Niebuhr', 'Bret Chamness']
+            selected:
+                count: 10
+                names: ['April Smead', 'Reina Dillman', 'Merle Boulanger', 'Cruz Lenig', 'Duane Cardillo', 'Olevia Stillman', 'Anisha Mooney', 'Belva Kimery', 'Zenobia Mayle', 'Elvin Neeley']
+            no:
+                count: 7
+                names: ['Krystal Whalen', 'Lavina Stutz', 'Carmine Madera', 'Letty Kiley', 'Song Wheaton', 'Sandee Graffam', 'Johnathan Madry']
+            wrong:
+                count: 1
+                names: ['Debbra Ciccone']
+            possibly:
+                count: 1
+                names: ['Ardelia Chachere']
+    -
+        name: 'NOMAD Workshop Linking Humanitarian Organizations with Mobile Data Collection Tool Providers, '
+        time_range: '15th -17th May'
+        type: ''
+        _location_lat: 48.86
+        _location_lon: 2.35
+        location_name: Paris
+        vol_reqs: ''
+        availability:
+            unknown:
+                count: 70
+                names: ['Lynnette Shain', 'Somer Holscher', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Lucila Hodel', 'Krystal Whalen', 'Mae Litton', 'Vaughn Sundberg', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Evalyn Alldredge', 'Carma Haring', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Christene Ludwig', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            yes:
+                count: 3
+                names: ['April Smead', 'Reina Dillman', 'Gretta Leist']
+            no:
+                count: 3
+                names: ['Joyce Sandin', 'Camila Siders', 'Olevia Stillman']
+            selected:
+                count: 1
+                names: ['Debbra Ciccone']
+    -
+        name: 'Technical Round Table strategy input'
+        time_range: '19th June'
+        type: ''
+        _location_lat: 51.71
+        _location_lon: -0.85
+        location_name: Saunderton
+        vol_reqs: 'A group of experienced/knowledgable volunteers'
+        availability:
+            unknown:
+                count: 68
+                names: ['Lynnette Shain', 'April Smead', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Krystal Whalen', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Carma Haring', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Shelli Abundis', 'Christene Ludwig', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Jerry Minnifield', 'Kiley Elsasser', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            wrong:
+                count: 5
+                names: ['Somer Holscher', 'Lucila Hodel', 'Mae Litton', 'Debbra Ciccone', 'Duane Cardillo']
+            yes:
+                count: 1
+                names: ['Eloise Selig']
+            possibly:
+                count: 3
+                names: ['Karol Streit', 'Sharie Beattie', 'Bryce Grand']
+    -
+        name: 'IASC Integrated level 3 simulation'
+        time_range: '24 - 28 June'
+        type: ''
+        _location_lat: 46.95
+        _location_lon: 7.45
+        location_name: 'Bern, Switzerland '
+        vol_reqs: '1 experienced volunteer'
+        availability:
+            unknown:
+                count: 61
+                names: ['Lynnette Shain', 'Somer Holscher', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Carma Haring', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Christene Ludwig', 'Tasia Sweitzer', 'Karol Streit', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Levi Gaillard', 'Shavon Sedlock', 'Hertha Niebuhr', 'Bret Chamness']
+            no:
+                count: 10
+                names: ['April Smead', 'Joyce Sandin', 'Debbra Ciccone', 'Letty Kiley', 'Song Wheaton', 'Olevia Stillman', 'Brice Woodrow', 'Ardelia Chachere', 'Johnathan Madry', 'Elvin Neeley']
+            yes:
+                count: 3
+                names: ['Reina Dillman', 'Eloise Selig', 'Evalyn Alldredge']
+            selected:
+                count: 1
+                names: ['Krystal Whalen']
+            possibly:
+                count: 2
+                names: ['Melisa Kenny', 'Carmine Madera']
+    -
+        name: 'US army humanitarian response to conference'
+        time_range: '25 - 27 June '
+        type: ''
+        _location_lat: null
+        _location_lon: null
+        location_name: 'Santiago, Chile 25-27 June'
+        vol_reqs: '1 Spanish speaker '
+        availability:
+            unknown:
+                count: 60
+                names: ['Lynnette Shain', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Cruz Lenig', 'Marjory Mccausland', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Song Wheaton', 'Karol Streit', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Levi Gaillard', 'Shavon Sedlock', 'Hertha Niebuhr']
+            no:
+                count: 13
+                names: ['Somer Holscher', 'April Smead', 'Krystal Whalen', 'Merle Boulanger', 'Tommye Hunsicker', 'Carmine Madera', 'Letty Kiley', 'Olevia Stillman', 'Brice Woodrow', 'Ardelia Chachere', 'Johnathan Madry', 'Bret Chamness', 'Elvin Neeley']
+            yes:
+                count: 3
+                names: ['Evalyn Alldredge', 'Debbra Ciccone', 'Christene Ludwig']
+            wrong:
+                count: 1
+                names: ['Carma Haring']
+    -
+        name: 'ECOSOC Meeting'
+        time_range: '15-17 July'
+        type: ''
+        _location_lat: 46.2
+        _location_lon: 6.15
+        location_name: ' Geneva'
+        vol_reqs: ''
+        availability:
+            unknown:
+                count: 71
+                names: ['Lynnette Shain', 'Somer Holscher', 'April Smead', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Carma Haring', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 4
+                names: ['Krystal Whalen', 'Marjory Mccausland', 'Brice Woodrow', 'Johnathan Madry']
+            selected:
+                count: 2
+                names: ['Debbra Ciccone', 'Christene Ludwig']
+    -
+        name: 'OSOCC Course'
+        time_range: '2-6 September '
+        type: ''
+        _location_lat: 45.79
+        _location_lon: -97.72
+        location_name: 'Belguim '
+        vol_reqs: '1 team member '
+        availability:
+            unknown:
+                count: 67
+                names: ['Lynnette Shain', 'Somer Holscher', 'April Smead', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Evalyn Alldredge', 'Carma Haring', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Shelli Abundis', 'Tasia Sweitzer', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Bret Chamness', 'Elvin Neeley']
+            possibly:
+                count: 1
+                names: ['Krystal Whalen']
+            no:
+                count: 6
+                names: ['Marjory Mccausland', 'Camila Siders', 'Duane Cardillo', 'Brice Woodrow', 'Johnathan Madry', 'Hertha Niebuhr']
+            yes:
+                count: 2
+                names: ['Debbra Ciccone', 'Christene Ludwig']
+            selected:
+                count: 1
+                names: ['Letty Kiley']
+    -
+        name: 'Save the Children advanced field training '
+        time_range: '7th September '
+        type: ''
+        _location_lat: 52.13
+        _location_lon: -3.9
+        location_name: Wales
+        vol_reqs: '1 volunteer - DT'
+        availability:
+            unknown:
+                count: 55
+                names: ['Lynnette Shain', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Tommye Hunsicker', 'Eloise Selig', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Carma Haring', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Dalila Kates', 'Gala Mannion', 'Shelli Abundis', 'Tasia Sweitzer', 'Song Wheaton', 'Karol Streit', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Zenobia Mayle', 'Jacinta Charney', 'Levi Gaillard', 'Shavon Sedlock', 'Bret Chamness']
+            no:
+                count: 12
+                names: ['Somer Holscher', 'April Smead', 'Marjory Mccausland', 'Camila Siders', 'Carmine Madera', 'Christene Ludwig', 'Olevia Stillman', 'Sandee Graffam', 'Ardelia Chachere', 'Johnathan Madry', 'Hertha Niebuhr', 'Elvin Neeley']
+            possibly:
+                count: 2
+                names: ['Krystal Whalen', 'Lavina Stutz']
+            wrong:
+                count: 1
+                names: ['Joyce Sandin']
+            yes:
+                count: 7
+                names: ['Cruz Lenig', 'Evalyn Alldredge', 'Debbra Ciccone', 'Philip Trevathan', 'Duane Cardillo', 'Letty Kiley', 'Jerry Minnifield']
+    -
+        name: 'OHI Code Sprint & other meetings'
+        time_range: '9-13 September'
+        type: ''
+        _location_lat: 47.29
+        _location_lon: -120.21
+        location_name: 'Washington, USA'
+        vol_reqs: '1 experienced volunteer'
+        availability:
+            unknown:
+                count: 71
+                names: ['Lynnette Shain', 'Somer Holscher', 'April Smead', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Krystal Whalen', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Camila Siders', 'Evalyn Alldredge', 'Carma Haring', 'Debbra Ciccone', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 3
+                names: ['Tommye Hunsicker', 'Christene Ludwig', 'Hertha Niebuhr']
+            selected:
+                count: 2
+                names: ['Marjory Mccausland', 'Andra Friedrichs']
+            wrong:
+                count: 1
+                names: ['Andy Warford']
+    -
+        name: 'OHI Code Sprint'
+        time_range: '9-13 September'
+        type: ''
+        _location_lat: 52.48
+        _location_lon: -1.9
+        location_name: Birmingham
+        vol_reqs: '1 volunteer'
+        availability:
+            unknown:
+                count: 73
+                names: ['Lynnette Shain', 'Somer Holscher', 'April Smead', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Krystal Whalen', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Marjory Mccausland', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Carma Haring', 'Debbra Ciccone', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 3
+                names: ['Tommye Hunsicker', 'Christene Ludwig', 'Hertha Niebuhr']
+            selected:
+                count: 1
+                names: ['Olevia Stillman']
+    -
+        name: 'UNOSAT UAS Workshop'
+        time_range: '11-13 September'
+        type: ''
+        _location_lat: 46.2
+        _location_lon: 6.15
+        location_name: 'Geneva '
+        vol_reqs: '1 volunteer'
+        availability:
+            unknown:
+                count: 73
+                names: ['Lynnette Shain', 'Somer Holscher', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Krystal Whalen', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Carma Haring', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 2
+                names: ['April Smead', 'Hertha Niebuhr']
+            selected:
+                count: 1
+                names: ['Debbra Ciccone']
+            yes:
+                count: 1
+                names: ['Christene Ludwig']
+    -
+        name: 'Triplex 2013'
+        time_range: '28th September to 4th October, 2013'
+        type: ''
+        _location_lat: null
+        _location_lon: null
+        location_name: 'Denmark and Germany border'
+        vol_reqs: '5 team members DT and OST. '
+        availability:
+            unknown:
+                count: 42
+                names: ['Lynnette Shain', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Alfonso Earp', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Carma Haring', 'Yessenia Mojica', 'Domenic Almazan', 'Dalila Kates', 'Shelli Abundis', 'Tasia Sweitzer', 'Song Wheaton', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Kasandra Soldner', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Jacinta Charney', 'Levi Gaillard', 'Shavon Sedlock', 'Bret Chamness']
+            possibly:
+                count: 6
+                names: ['Somer Holscher', 'Kerri Lent', 'Lavina Stutz', 'Camila Siders', 'Karol Streit', 'Olevia Stillman']
+            yes:
+                count: 16
+                names: ['April Smead', 'Merle Boulanger', 'Marjory Mccausland', 'Eloise Selig', 'Evalyn Alldredge', 'Philip Trevathan', 'Duane Cardillo', 'Christene Ludwig', 'Letty Kiley', 'Anisha Mooney', 'Gretta Leist', 'Tammi Merrifield', 'Laila Ambrosio', 'Zenobia Mayle', 'Johnathan Madry', 'Elvin Neeley']
+            selected:
+                count: 6
+                names: ['Lucila Hodel', 'Lynell Mazzeo', 'Debbra Ciccone', 'Melisa Kenny', 'Gala Mannion', 'Bryce Grand']
+            no:
+                count: 6
+                names: ['Krystal Whalen', 'Tommye Hunsicker', 'Carmine Madera', 'Sandee Graffam', 'Ardelia Chachere', 'Hertha Niebuhr']
+            wrong:
+                count: 1
+                names: ['Cruz Lenig']
+    -
+        name: 'INSARAG exercise Peru '
+        time_range: '1 - 4 October '
+        type: ''
+        _location_lat: -12
+        _location_lon: -76.83
+        location_name: 'Lima Peru'
+        vol_reqs: '2 Spanish speaker '
+        availability:
+            unknown:
+                count: 53
+                names: ['Lynnette Shain', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Dalila Kates', 'Gala Mannion', 'Shelli Abundis', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Zenobia Mayle', 'Jacinta Charney', 'Shavon Sedlock', 'Bret Chamness']
+            no:
+                count: 16
+                names: ['Somer Holscher', 'April Smead', 'Krystal Whalen', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Carmine Madera', 'Duane Cardillo', 'Olevia Stillman', 'Brice Woodrow', 'Sandee Graffam', 'Ardelia Chachere', 'Johnathan Madry', 'Hertha Niebuhr', 'Elvin Neeley']
+            yes:
+                count: 6
+                names: ['Kerri Lent', 'Evalyn Alldredge', 'Carma Haring', 'Debbra Ciccone', 'Christene Ludwig', 'Levi Gaillard']
+            selected:
+                count: 2
+                names: ['Camila Siders', 'Philip Trevathan']
+    -
+        name: 'Schools GIS and Fieldwork conference'
+        time_range: '18th October 2013 '
+        type: ''
+        _location_lat: null
+        _location_lon: null
+        location_name: 'Wellington College, West Berkshire  '
+        vol_reqs: ''
+        availability:
+            unknown:
+                count: 59
+                names: ['Lynnette Shain', 'Somer Holscher', 'Kerri Lent', 'Sirena Bordelon', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Alfonso Earp', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Evalyn Alldredge', 'Debbra Ciccone', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Bret Chamness', 'Elvin Neeley']
+            possibly:
+                count: 1
+                names: ['April Smead']
+            no:
+                count: 11
+                names: ['Beth Sisto', 'Reina Dillman', 'Lynell Mazzeo', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Carma Haring', 'Christene Ludwig', 'Johnathan Madry', 'Hertha Niebuhr']
+            yes:
+                count: 5
+                names: ['Krystal Whalen', 'Joyce Sandin', 'Camila Siders', 'Bryce Grand', 'Sandee Graffam']
+            selected:
+                count: 1
+                names: ['Tasia Sweitzer']
+    -
+        name: 'OCHA Syria Information Support Unit - Support mission'
+        time_range: ASAP
+        type: ''
+        _location_lat: 31.66
+        _location_lon: 36.32
+        location_name: 'Amman Jordan'
+        vol_reqs: ''
+        availability:
+            unknown:
+                count: 63
+                names: ['Lynnette Shain', 'Somer Holscher', 'Kerri Lent', 'Sirena Bordelon', 'Lucila Hodel', 'Vaughn Sundberg', 'Joyce Sandin', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Eloise Selig', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Melisa Kenny', 'Yessenia Mojica', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 9
+                names: ['April Smead', 'Beth Sisto', 'Reina Dillman', 'Mae Litton', 'Tommye Hunsicker', 'Marjory Mccausland', 'Debbra Ciccone', 'Domenic Almazan', 'Christene Ludwig']
+            selected:
+                count: 1
+                names: ['Krystal Whalen']
+            wrong:
+                count: 2
+                names: ['Lynell Mazzeo', 'Lavina Stutz']
+            yes:
+                count: 2
+                names: ['Carma Haring', 'Letty Kiley']
+    -
+        name: 'UNDAC Induction Course'
+        time_range: '20-25 October'
+        type: ''
+        _location_lat: 46.52
+        _location_lon: 6.63
+        location_name: 'Lausanne, Switzerland'
+        vol_reqs: ''
+        availability:
+            unknown:
+                count: 53
+                names: ['Lynnette Shain', 'Somer Holscher', 'Kerri Lent', 'Sirena Bordelon', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Alfonso Earp', 'Eloise Selig', 'Lavina Stutz', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Melisa Kenny', 'Domenic Almazan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 14
+                names: ['April Smead', 'Beth Sisto', 'Reina Dillman', 'Lynell Mazzeo', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Carma Haring', 'Christene Ludwig', 'Brice Woodrow', 'Sandee Graffam', 'Johnathan Madry', 'Hertha Niebuhr']
+            yes:
+                count: 7
+                names: ['Krystal Whalen', 'Joyce Sandin', 'Evalyn Alldredge', 'Debbra Ciccone', 'Yessenia Mojica', 'Philip Trevathan', 'Duane Cardillo']
+            selected:
+                count: 2
+                names: ['Samuel Holtkamp', 'Shelli Abundis']
+            possibly:
+                count: 1
+                names: ['Karol Streit']
+    -
+        name: 'The Esri Europe, Middle East and Africa User Conference'
+        time_range: ' 23rd – 25th October'
+        type: ''
+        _location_lat: 48.14
+        _location_lon: 11.58
+        location_name: Munich
+        vol_reqs: '1 volunteer'
+        availability:
+            unknown:
+                count: 61
+                names: ['Lynnette Shain', 'Somer Holscher', 'Kerri Lent', 'Sirena Bordelon', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Bret Chamness', 'Elvin Neeley']
+            yes:
+                count: 3
+                names: ['April Smead', 'Krystal Whalen', 'Evalyn Alldredge']
+            no:
+                count: 10
+                names: ['Beth Sisto', 'Reina Dillman', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Carma Haring', 'Christene Ludwig', 'Johnathan Madry', 'Hertha Niebuhr']
+            possibly:
+                count: 1
+                names: ['Camila Siders']
+            wrong:
+                count: 1
+                names: ['Debbra Ciccone']
+            selected:
+                count: 1
+                names: ['Gala Mannion']
+    -
+        name: 'INSARAG Asia Pacific Region Urban Search and Rescue Earthquake Response Exercise'
+        time_range: '06 to 10 November'
+        type: ''
+        _location_lat: 2.39
+        _location_lon: 112.85
+        location_name: 'Malaysia '
+        vol_reqs: 'I experienced volunteer'
+        availability:
+            unknown:
+                count: 66
+                names: ['Lynnette Shain', 'Somer Holscher', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 9
+                names: ['April Smead', 'Krystal Whalen', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Carma Haring', 'Debbra Ciccone', 'Philip Trevathan', 'Christene Ludwig']
+            yes:
+                count: 1
+                names: ['Kerri Lent']
+            selected:
+                count: 1
+                names: ['Anisha Mooney']
+    -
+        name: 'ESRI Dev summit - hackathon'
+        time_range: 10/11/2013
+        type: ''
+        _location_lat: 51.51
+        _location_lon: -0.13
+        location_name: London
+        vol_reqs: 'several team members - ideally with involvement in the various circles and working groups'
+        availability:
+            unknown:
+                count: 70
+                names: ['Lynnette Shain', 'Somer Holscher', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Krystal Whalen', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Marjory Mccausland', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Carma Haring', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Duane Cardillo', 'Shelli Abundis', 'Christene Ludwig', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            wrong:
+                count: 2
+                names: ['April Smead', 'Zenobia Mayle']
+            no:
+                count: 3
+                names: ['Kerri Lent', 'Tommye Hunsicker', 'Debbra Ciccone']
+            possibly:
+                count: 1
+                names: ['Gala Mannion']
+            yes:
+                count: 1
+                names: ['Olevia Stillman']
+    -
+        name: 'Esri European Petroleum user Group'
+        time_range: '14-15 November 2013'
+        type: ''
+        _location_lat: 51.52
+        _location_lon: -0.13
+        location_name: 'Congress Centre, London'
+        vol_reqs: '1 volunteer'
+        availability:
+            unknown:
+                count: 59
+                names: ['Lynnette Shain', 'Somer Holscher', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Evalyn Alldredge', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Carmine Madera', 'Dalila Kates', 'Shelli Abundis', 'Tasia Sweitzer', 'Letty Kiley', 'Karol Streit', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 11
+                names: ['April Smead', 'Kerri Lent', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Carma Haring', 'Gala Mannion', 'Duane Cardillo', 'Christene Ludwig', 'Johnathan Madry']
+            yes:
+                count: 2
+                names: ['Krystal Whalen', 'Debbra Ciccone']
+            possibly:
+                count: 4
+                names: ['Camila Siders', 'Philip Trevathan', 'Olevia Stillman', 'Brice Woodrow']
+            wrong:
+                count: 1
+                names: ['Song Wheaton']
+    -
+        name: 'UNDAC Refresher Canceled '
+        time_range: 'Mid November '
+        type: ''
+        _location_lat: 2.39
+        _location_lon: 112.85
+        location_name: 'Malaysia '
+        vol_reqs: 'I experienced volunteer'
+        availability:
+            unknown:
+                count: 67
+                names: ['Lynnette Shain', 'Somer Holscher', 'Beth Sisto', 'Sirena Bordelon', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Evalyn Alldredge', 'Carma Haring', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Christene Ludwig', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 4
+                names: ['April Smead', 'Kerri Lent', 'Marjory Mccausland', 'Johnathan Madry']
+            yes:
+                count: 6
+                names: ['Reina Dillman', 'Krystal Whalen', 'Eloise Selig', 'Andy Warford', 'Camila Siders', 'Debbra Ciccone']
+    -
+        name: 'ICCM 2013, IMMAP meeting and DHN Summit '
+        time_range: '18 - 22 November '
+        type: ''
+        _location_lat: -1.28
+        _location_lon: 36.82
+        location_name: 'Nairobi, Kenya'
+        vol_reqs: ''
+        availability:
+            unknown:
+                count: 62
+                names: ['Lynnette Shain', 'Somer Holscher', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Carmine Madera', 'Dalila Kates', 'Shelli Abundis', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 8
+                names: ['April Smead', 'Kerri Lent', 'Marjory Mccausland', 'Camila Siders', 'Carma Haring', 'Debbra Ciccone', 'Philip Trevathan', 'Christene Ludwig']
+            possibly:
+                count: 3
+                names: ['Krystal Whalen', 'Gala Mannion', 'Duane Cardillo']
+            selected:
+                count: 1
+                names: ['Andy Warford']
+            yes:
+                count: 3
+                names: ['Evalyn Alldredge', 'Tasia Sweitzer', 'Letty Kiley']
+    -
+        name: 'ZEBRA/World Bank training mission'
+        time_range: 25-29
+        type: ''
+        _location_lat: 7.88
+        _location_lon: 80.7
+        location_name: 'Sri Lanka '
+        vol_reqs: '2 team members'
+        availability:
+            unknown:
+                count: 52
+                names: ['Lynnette Shain', 'Somer Holscher', 'Beth Sisto', 'Sirena Bordelon', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Alfonso Earp', 'Eloise Selig', 'Earlene Evelyn', 'Andy Warford', 'Evalyn Alldredge', 'Yessenia Mojica', 'Domenic Almazan', 'Carmine Madera', 'Dalila Kates', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Song Wheaton', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 11
+                names: ['April Smead', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Carma Haring', 'Philip Trevathan', 'Gala Mannion', 'Christene Ludwig', 'Johnathan Madry', 'Hertha Niebuhr']
+            yes:
+                count: 9
+                names: ['Kerri Lent', 'Reina Dillman', 'Lucila Hodel', 'Krystal Whalen', 'Lavina Stutz', 'Camila Siders', 'Debbra Ciccone', 'Melisa Kenny', 'Letty Kiley']
+            possibly:
+                count: 3
+                names: ['Lynell Mazzeo', 'Samuel Holtkamp', 'Karol Streit']
+            selected:
+                count: 2
+                names: ['Gretta Leist', 'Sandee Graffam']
+    -
+        name: 'RedR GPS training'
+        time_range: '26 November at 2 - 4.15'
+        type: ''
+        _location_lat: 51.51
+        _location_lon: -0.13
+        location_name: London
+        vol_reqs: '1 team member. '
+        availability:
+            unknown:
+                count: 74
+                names: ['Lynnette Shain', 'Somer Holscher', 'April Smead', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Lucila Hodel', 'Krystal Whalen', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Carma Haring', 'Debbra Ciccone', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Carmine Madera', 'Dalila Kates', 'Duane Cardillo', 'Shelli Abundis', 'Christene Ludwig', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            selected:
+                count: 1
+                names: ['Reina Dillman']
+            possibly:
+                count: 2
+                names: ['Philip Trevathan', 'Gala Mannion']
+    -
+        name: 'OSOCC Course'
+        time_range: '27 to 30 November'
+        type: ''
+        _location_lat: -31.76
+        _location_lon: -71.32
+        location_name: Chile
+        vol_reqs: '1 Spanish speaking volunteer?'
+        availability:
+            unknown:
+                count: 65
+                names: ['Lynnette Shain', 'Somer Holscher', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Carmine Madera', 'Dalila Kates', 'Duane Cardillo', 'Shelli Abundis', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 9
+                names: ['April Smead', 'Krystal Whalen', 'Tommye Hunsicker', 'Marjory Mccausland', 'Camila Siders', 'Carma Haring', 'Philip Trevathan', 'Gala Mannion', 'Christene Ludwig']
+            selected:
+                count: 1
+                names: ['Kerri Lent']
+            yes:
+                count: 2
+                names: ['Evalyn Alldredge', 'Debbra Ciccone']
+    -
+        name: 'Humanitarian to humanitarian'
+        time_range: '9-10 December '
+        type: 'Change of date!'
+        _location_lat: null
+        _location_lon: null
+        location_name: 'Oxfam HQ, Oxford'
+        vol_reqs: '2 volunteers'
+        availability:
+            unknown:
+                count: 57
+                names: ['Lynnette Shain', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Eloise Selig', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Carma Haring', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Carmine Madera', 'Dalila Kates', 'Tasia Sweitzer', 'Song Wheaton', 'Karol Streit', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Bret Chamness', 'Elvin Neeley']
+            possibly:
+                count: 1
+                names: ['Somer Holscher']
+            no:
+                count: 10
+                names: ['April Smead', 'Kerri Lent', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Debbra Ciccone', 'Philip Trevathan', 'Gala Mannion', 'Christene Ludwig', 'Johnathan Madry']
+            yes:
+                count: 9
+                names: ['Krystal Whalen', 'Lavina Stutz', 'Camila Siders', 'Evalyn Alldredge', 'Duane Cardillo', 'Shelli Abundis', 'Letty Kiley', 'Olevia Stillman', 'Hertha Niebuhr']
+    -
+        name: 'Portsmouth University lecture'
+        time_range: '10 December 5pm'
+        type: ''
+        _location_lat: 50.82
+        _location_lon: -1.08
+        location_name: Portsmouth
+        vol_reqs: '1 volunteer'
+        availability:
+            unknown:
+                count: 73
+                names: ['Lynnette Shain', 'Somer Holscher', 'April Smead', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Krystal Whalen', 'Mae Litton', 'Vaughn Sundberg', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Cruz Lenig', 'Tommye Hunsicker', 'Marjory Mccausland', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Evalyn Alldredge', 'Carma Haring', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Philip Trevathan', 'Carmine Madera', 'Dalila Kates', 'Duane Cardillo', 'Shelli Abundis', 'Christene Ludwig', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            selected:
+                count: 2
+                names: ['Joyce Sandin', 'Camila Siders']
+            no:
+                count: 1
+                names: ['Debbra Ciccone']
+            yes:
+                count: 1
+                names: ['Gala Mannion']
+    -
+        name: 'Capacity building follow up mission.'
+        time_range: 'Approximately from the January 2014'
+        type: 'Change of date!'
+        _location_lat: 15.59
+        _location_lon: 32.54
+        location_name: 'Khartoum, Sudan'
+        vol_reqs: '2 Volunters '
+        availability:
+            unknown:
+                count: 72
+                names: ['Lynnette Shain', 'Somer Holscher', 'Kerri Lent', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Tommye Hunsicker', 'Marjory Mccausland', 'Eloise Selig', 'Lavina Stutz', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Carma Haring', 'Debbra Ciccone', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Christene Ludwig', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 2
+                names: ['April Smead', 'Philip Trevathan']
+            possibly:
+                count: 3
+                names: ['Krystal Whalen', 'Mae Litton', 'Cruz Lenig']
+    -
+        name: ' UNDAC Europe Refresher 2013'
+        time_range: '1 - 4 December '
+        type: ''
+        _location_lat: 48.21
+        _location_lon: 16.37
+        location_name: 'Vienna Austria '
+        vol_reqs: ''
+        availability:
+            unknown:
+                count: 71
+                names: ['Lynnette Shain', 'Somer Holscher', 'Beth Sisto', 'Sirena Bordelon', 'Reina Dillman', 'Lucila Hodel', 'Krystal Whalen', 'Mae Litton', 'Vaughn Sundberg', 'Joyce Sandin', 'Lynell Mazzeo', 'Alfonso Earp', 'Merle Boulanger', 'Tommye Hunsicker', 'Marjory Mccausland', 'Eloise Selig', 'Samuel Holtkamp', 'Earlene Evelyn', 'Andy Warford', 'Camila Siders', 'Evalyn Alldredge', 'Carma Haring', 'Melisa Kenny', 'Yessenia Mojica', 'Domenic Almazan', 'Carmine Madera', 'Dalila Kates', 'Gala Mannion', 'Duane Cardillo', 'Shelli Abundis', 'Christene Ludwig', 'Tasia Sweitzer', 'Letty Kiley', 'Song Wheaton', 'Karol Streit', 'Olevia Stillman', 'Salvatore Defrank', 'Oma Cowell', 'Elida Juntunen', 'Anisha Mooney', 'Dalia Weathersby', 'Jacquelynn Marable', 'Maximo Queener', 'Operational Support', 'Brice Woodrow', 'Beth Buse', 'Gretta Leist', 'Belva Kimery', 'Elma Kuntz', 'Justa Slinkard', 'Andra Friedrichs', 'Tammi Merrifield', 'Sharie Beattie', 'Jerry Minnifield', 'Kiley Elsasser', 'Bryce Grand', 'Kasandra Soldner', 'Laila Ambrosio', 'Glory Wyrick', 'Kylie Thigpen', 'Katlyn Schier', 'Sandee Graffam', 'Zenobia Mayle', 'Jacinta Charney', 'Ardelia Chachere', 'Levi Gaillard', 'Shavon Sedlock', 'Johnathan Madry', 'Hertha Niebuhr', 'Bret Chamness', 'Elvin Neeley']
+            no:
+                count: 4
+                names: ['April Smead', 'Kerri Lent', 'Cruz Lenig', 'Philip Trevathan']
+            yes:
+                count: 2
+                names: ['Lavina Stutz', 'Debbra Ciccone']
