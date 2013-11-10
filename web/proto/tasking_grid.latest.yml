@@ -1,0 +1,31 @@
+events:
+  -
+    name:  Test
+    time_start: 2013-11-10
+    time_end: 2013-12-01
+    location_name: London
+    _location_lat: 51.2 #from nominatum, that's why with underscore
+    _location_lon: -0.1 #from nominatum, that's why with underscore
+    vol_reqs:    string
+    availability:
+      yes:
+        count: 10
+        names: [name,name]
+      no:
+        count: 2
+        names: [name, name]
+      possibly:
+        count: 10
+        names: [name, name]          
+      selected:
+        count: 4
+        names: [name, name]                   
+      unknown:
+        count: 10                      
+        names: [name, name]
+      wrong:
+        count: 1
+        names: [name, name]
+                            
+  -
+   name: Test2             

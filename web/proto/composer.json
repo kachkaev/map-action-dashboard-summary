@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/finder": "2.3.*",
+        "symfony/yaml": "2.3.*"
+    }
+}

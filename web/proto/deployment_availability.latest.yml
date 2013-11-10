@@ -1,0 +1,15 @@
+volunteers:
+  bob:
+    2013-11-12: yes
+    2013-11-13: no
+  alice:
+    2013-11-13: yes
+
+dates:
+  2013-11-15:
+    yes:
+      count: 10
+      names: [bob , alice]
+    no:
+      count: 10
+      names: [andy, sarah]
