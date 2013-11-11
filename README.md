@@ -1,10 +1,12 @@
 MapAction Dashboard Summary
 ========================
 
-The app generates yaml files based on the google spreadsheets used by MapAction team members.
-These files contain structured information on the volunteers’ availability and the events.
+The app generates yaml files based on the google spreadsheets used to manage MapAction team members. These files contain structured information about the volunteers’ availability and the events.
 
-It is possible to generate new yamls, visualise the data track what has been changed for a selected period of time.
+It is possible to generate new yamls, visualise the data and track what has been changed between two specified dates.
+
+These results of these files can then be incorporated into the Main Page on the website to provide a quick-view solution for availability in the interim period before the website is redesigned.
+
 
 Structure of the files with summaries
 ----------------------------------
