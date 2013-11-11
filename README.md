@@ -7,6 +7,7 @@ It is possible to generate new yamls, visualise the data and track what has been
 
 These results of these files can then be incorporated into the Main Page on the website to provide a quick-view solution for availability in the interim period before the website is redesigned.
 
+See presentation slides in [pptx](presentation-slides.pptx) and [pdf](presentation-slides.pdf).
 
 Structure of the files with summaries
 ----------------------------------
