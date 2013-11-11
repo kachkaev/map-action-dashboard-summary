@@ -53,6 +53,6 @@ abstract class AbstractUpdateYmlCommand extends ContainerAwareCommand
         if (file_exists($filenameLatest)) {
             unlink($filenameLatest);
         }
-        symlink($filenameFixed, $filenameLatest);
+        symlink(basename($filenameFixed), $filenameLatest);
     }
 }
